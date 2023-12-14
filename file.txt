@@ -1,7 +1,13 @@
 Hi please check the error
 note the errors
 <<<<<<< HEAD
+<<<<<<< HEAD
 hi errors
 =======
 new errors occured
 >>>>>>> feature1
+=======
+feature1
+new errors occured
+hi errorrs
+>>>>>>> 7e39b2976e119abab9cf32d77eaeec2c8e63c092
