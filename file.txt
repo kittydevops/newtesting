@@ -1,3 +1,7 @@
 Hi please check the error
 note the errors
+<<<<<<< HEAD
 hi errors
+=======
+new errors occured
+>>>>>>> feature1
